@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbstractFactory.h" />
+    <ClInclude Include="Builder.h" />
     <ClInclude Include="Factory_method.h" />
     <ClInclude Include="Singleton.h" />
   </ItemGroup>
