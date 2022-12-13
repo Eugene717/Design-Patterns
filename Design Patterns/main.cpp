@@ -6,6 +6,7 @@
 #include "Protorype.h"
 //Structural Patterns
 #include "Adapter.h"
+#include "Bridge.h"
 
 int main()
 {
@@ -14,7 +15,7 @@ int main()
 	//foo3();
 	//foo4();
 	//foo5();
-	foo6();
+	foo7();
 
 	return 0;
 }
