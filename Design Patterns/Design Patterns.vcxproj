@@ -146,6 +146,7 @@
     <ClInclude Include="Adapter.h" />
     <ClInclude Include="Bridge.h" />
     <ClInclude Include="Builder.h" />
+    <ClInclude Include="Composite.h" />
     <ClInclude Include="Factory_method.h" />
     <ClInclude Include="Protorype.h" />
     <ClInclude Include="Singleton.h" />
