@@ -8,6 +8,7 @@
 #include "Adapter.h"
 #include "Bridge.h"
 #include "Composite.h"
+#include "Decorator.h"
 
 int main()
 {
@@ -17,7 +18,8 @@ int main()
 	//foo4();
 	//foo5();
 	//foo7();
-	foo8();
+	//foo8();
+	foo9();
 
 	return 0;
 }
