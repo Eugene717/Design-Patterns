@@ -10,6 +10,7 @@
 #include "Composite.h"
 #include "Decorator.h"
 #include "Facade.h"
+#include "Flyweight.h"
 
 int main()
 {
@@ -21,7 +22,8 @@ int main()
 	//foo7();
 	//foo8();
 	//foo9();
-	foo10();
+	//foo10();
+	foo11();
 
 	return 0;
 }
