@@ -9,6 +9,7 @@
 #include "Bridge.h"
 #include "Composite.h"
 #include "Decorator.h"
+#include "Facade.h"
 
 int main()
 {
@@ -19,7 +20,8 @@ int main()
 	//foo5();
 	//foo7();
 	//foo8();
-	foo9();
+	//foo9();
+	foo10();
 
 	return 0;
 }
