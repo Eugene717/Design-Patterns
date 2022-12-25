@@ -11,6 +11,7 @@
 #include "Decorator.h"
 #include "Facade.h"
 #include "Flyweight.h"
+#include "Proxy.h"
 
 int main()
 {
@@ -23,7 +24,8 @@ int main()
 	//foo8();
 	//foo9();
 	//foo10();
-	foo11();
+	//foo11();
+	foo12();
 
 	return 0;
 }
