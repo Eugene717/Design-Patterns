@@ -12,6 +12,8 @@
 #include "Facade.h"
 #include "Flyweight.h"
 #include "Proxy.h"
+//Behavioral Patterns
+#include "ChainOfResponsibility.h"
 
 int main()
 {
@@ -25,7 +27,8 @@ int main()
 	//foo9();
 	//foo10();
 	//foo11();
-	foo12();
+	//foo12();
+	foo13();
 
 	return 0;
 }
