@@ -15,6 +15,7 @@
 //Behavioral Patterns
 #include "ChainOfResponsibility.h"
 #include "Command.h"
+#include "Iterator.h"
 
 int main()
 {
@@ -30,7 +31,8 @@ int main()
 	//foo11();
 	//foo12();
 	//foo13();
-	foo14();
+	//foo14();
+	foo15();
 
 	return 0;
 }
