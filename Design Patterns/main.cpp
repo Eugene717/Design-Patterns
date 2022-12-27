@@ -14,6 +14,7 @@
 #include "Proxy.h"
 //Behavioral Patterns
 #include "ChainOfResponsibility.h"
+#include "Command.h"
 
 int main()
 {
@@ -28,7 +29,8 @@ int main()
 	//foo10();
 	//foo11();
 	//foo12();
-	foo13();
+	//foo13();
+	foo14();
 
 	return 0;
 }
