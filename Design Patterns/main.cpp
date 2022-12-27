@@ -16,6 +16,7 @@
 #include "ChainOfResponsibility.h"
 #include "Command.h"
 #include "Iterator.h"
+#include "Mediator.h"
 
 int main()
 {
@@ -32,7 +33,8 @@ int main()
 	//foo12();
 	//foo13();
 	//foo14();
-	foo15();
+	//foo15();
+	foo16();
 
 	return 0;
 }
