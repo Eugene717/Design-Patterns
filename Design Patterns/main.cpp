@@ -19,6 +19,7 @@
 #include "Mediator.h"
 #include "Memento.h"
 #include "Observer.h"
+#include "State.h"
 
 int main()
 {
@@ -38,7 +39,8 @@ int main()
 	//foo15();
 	//foo16();
 	//foo17();
-	foo18();
+	//foo18();
+	foo19();
 
 	return 0;
 }

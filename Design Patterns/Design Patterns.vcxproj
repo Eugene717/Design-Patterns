@@ -160,6 +160,7 @@
     <ClInclude Include="Protorype.h" />
     <ClInclude Include="Proxy.h" />
     <ClInclude Include="Singleton.h" />
+    <ClInclude Include="State.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
