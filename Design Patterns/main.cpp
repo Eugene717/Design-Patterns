@@ -18,6 +18,7 @@
 #include "Iterator.h"
 #include "Mediator.h"
 #include "Memento.h"
+#include "Observer.h"
 
 int main()
 {
@@ -36,7 +37,8 @@ int main()
 	//foo14();
 	//foo15();
 	//foo16();
-	foo17();
+	//foo17();
+	foo18();
 
 	return 0;
 }

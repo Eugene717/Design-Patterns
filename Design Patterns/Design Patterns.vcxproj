@@ -156,6 +156,7 @@
     <ClInclude Include="Iterator.h" />
     <ClInclude Include="Mediator.h" />
     <ClInclude Include="Memento.h" />
+    <ClInclude Include="Observer.h" />
     <ClInclude Include="Protorype.h" />
     <ClInclude Include="Proxy.h" />
     <ClInclude Include="Singleton.h" />
