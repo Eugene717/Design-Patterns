@@ -20,6 +20,7 @@
 #include "Memento.h"
 #include "Observer.h"
 #include "State.h"
+#include "Strategy.h"
 
 int main()
 {
@@ -40,7 +41,8 @@ int main()
 	//foo16();
 	//foo17();
 	//foo18();
-	foo19();
+	//foo19();
+	foo20();
 
 	return 0;
 }
