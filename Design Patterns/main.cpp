@@ -21,6 +21,7 @@
 #include "Observer.h"
 #include "State.h"
 #include "Strategy.h"
+#include "TemplateMethod.h"
 
 int main()
 {
@@ -42,7 +43,8 @@ int main()
 	//foo17();
 	//foo18();
 	//foo19();
-	foo20();
+	//foo20();
+	foo21();
 
 	return 0;
 }
