@@ -22,6 +22,7 @@
 #include "State.h"
 #include "Strategy.h"
 #include "TemplateMethod.h"
+#include "Visitor.h"
 
 int main()
 {
@@ -44,7 +45,8 @@ int main()
 	//foo18();
 	//foo19();
 	//foo20();
-	foo21();
+	//foo21();
+	//foo22();
 
 	return 0;
 }

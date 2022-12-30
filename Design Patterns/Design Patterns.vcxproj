@@ -164,6 +164,7 @@
     <ClInclude Include="State.h" />
     <ClInclude Include="Strategy.h" />
     <ClInclude Include="TemplateMethod.h" />
+    <ClInclude Include="Visitor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
